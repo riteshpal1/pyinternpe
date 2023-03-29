@@ -1,0 +1,61 @@
+Identifiers:
+------------
+
+-A name in python program is called Identifiers
+ It can be class name, function name, variable name, module name
+
+  Rules to define Identifiersin python:-
+  ---------------------------------------
+
+  1. Allowed Character:
+    Alphabet (upper or lower)
+    digits(0-9)
+    underscore(_)
+
+  2. Should not be start with digits
+
+  3. case sensitive
+
+  4. We can not use Reserved words(Keywords)
+
+
+
+4. DataTypes in python
+----------------------
+
+-Datatypes represent the type of data present inside a variable
+-we do not need to specify the data type explicitly, based on vallues ttypes allocated automatically.
+-Python is a dynimacally types.
+
+there are lot of inbuilt dattatypes in python which are as follows:
+1. int
+2. float 
+3. complex 
+4. bool 
+5. string  
+6. bytes 
+7. bytesarrray 
+8. range 
+9. list 
+10. tuple 
+11. set 
+12. frozenset 
+13. dict 
+14. None  
+
+
+    Primary datatypes in python:
+    1. int
+    2. float 
+    3. complex 
+    4. bool 
+    5. string  
+
+
+    type():-
+    it returns the data type of the given values
+
+    id():-
+    it return the id of the given values
+
+
